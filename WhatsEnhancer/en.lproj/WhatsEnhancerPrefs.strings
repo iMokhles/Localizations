@@ -1,18 +1,19 @@
 // First Settings
 
 "Tweak configurations.." = "Tweak configurations..";
-"Media Options" = "Media Options";
-"Status Length" = "Status Length";
-"Delete Button" = "Delete Button";
+"Unlimited Lists" = "Unlimited Lists";
+"Unlimited Groups" = "Unlimited Groups";
+"Unlimited Media" = "Unlimited Media";
 "Select All" = "Select All";
 
 // Advanced Settings
 
 "Advanced Options" = "Advanced Options";
-"Groups Options" = "Group Options";
-"Image Options" = "Image Options";
-"Media Options" = "Media Options";
-"Lists Options" = "Lists Options";
+"Unlimited Status" = "Unlimited Status";
+"Unlimited Subjects" = "Unlimited Subjects";
+"Unlimited Photos, Videos" = "Unlimited Photos, Videos";
+"Share Style" = "Share Style";
+
 
 // Tweak Info Settings
 

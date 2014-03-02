@@ -1,18 +1,18 @@
 // First Settings
 
 "Tweak configurations.." = "إعدادات الأداة";
-"Media Options" = "إعدادات الوسائط";
-"Status Length" = "طول الحالة";
-"Delete Button" = "زر حذف الكل";
+"Unlimited Lists" = "قوائم بلا حدود";
+"Unlimited Groups" = "جروبات بلا حدود";
+"Unlimited Media" = "وسائط بلا حدود";
 "Select All" = "تحديد الكل";
 
 // Advanced Settings
 
 "Advanced Options" = "إعدادات متقدمة";
-"Groups Options" = "إعدادات متقدمة للجروب";
-"Image Options" = "إعدادات متقدمة للصور";
-"Media Options" = "إعدادات متقدمة للوسائط";
-"Lists Options" = "إعدادات متقدمة للبرودكاست";
+"Unlimited Status" = "حالة فوق ١٤٠ حرف";
+"Unlimited Subjects" = "عناوين بلا حدود";
+"Unlimited Photos, Videos" = "صور و فيديو بلا حدود"
+"Share Style" = "شكل قائمة المشاركة";
 
 // Tweak Info Settings
 
