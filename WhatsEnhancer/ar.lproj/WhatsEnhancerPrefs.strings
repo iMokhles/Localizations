@@ -1,25 +1,25 @@
 // First Settings
 
 "Tweak configurations.." = "إعدادات الأداة";
-"Unlimited Lists" = "قوائم بلا حدود";
-"Unlimited Groups" = "جروبات بلا حدود";
-"Unlimited Media" = "وسائط بلا حدود";
-"Select All" = "تحديد الكل";
+"Long Media" = "وسائط بحجم كبير";
+"Long Status" = "اكتر من ١٤٠ للحالة";
+"Long Subjects" = "اكتر من ٢٥ للعنوان";
+"Unlimited Photos" = "صور دون قيود";
+"Last Seen" = "اخفاء حالة الظهور";
+"Share Style" = "ستايل للمشاركة";
+"Media Options" = "خيارات للوسائط المستلمة";
+"Fully Profile Pic" = "صورة شخصيه دون قص";
+"Font Size" = "حجم خط التطبيق";
+"Text Colors" = "لون خط الرسايل";
+"URL Colors" = "لون الروابط بالرسايل";
 
-// Advanced Settings
-
-"Advanced Options" = "إعدادات متقدمة";
-"Unlimited Status" = "حالة فوق ١٤٠ حرف";
-"Unlimited Subjects" = "عناوين بلا حدود";
-"Unlimited Photos, Videos" = "صور و فيديو بلا حدود"
-"Share Style" = "شكل قائمة المشاركة";
 
 // Tweak Info Settings
 
 "Tweak info" = "معلومات الاداة";
 "Tweak's Licenses and others" = "معلومات الاداة من حقوق نشر. إلخ";
 "Version:" = "إصدار:";
-"License" = "حقوق نشر";
+"Instructions" = "معلومات";
 
 // Authors Info
 
@@ -32,3 +32,4 @@
 "Team" = "الفريق";
 "Follow @iOSDevT" = "@iOSDevT تابع";
 "Visit iOSDevT Site" = "لزيارة موقع الفريق";
+"if you want to follow our team stuffs ;)" = "إذا كنت تريد متابعة اعمال فريقنا";

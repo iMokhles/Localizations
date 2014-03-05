@@ -1,25 +1,24 @@
 // First Settings
 
 "Tweak configurations.." = "Tweak configurations..";
-"Unlimited Lists" = "Listes illimités";
-"Unlimited Groups" = "Groups illimités";
-"Unlimited Media" = "Médias illimité";
-"Select All" = "Sélectionner tout";
-
-// Advanced Settings
-
-"Advanced Options" = "Options Avancées";
-"Unlimited Status" = "Statut illimité";
-"Unlimited Subjects" = "Sujets illimités";
-"Unlimited Photos, Videos" = "Photos, Vidéos illimitées";
-"Share Style" = "Partager style";
+"Long Media" = "Longues Médias";
+"Long Status" = "Longue Etat";
+"Long Subjects" = "Longues Sujets";
+"Unlimited Photos" = "Photos illimitées";
+"Last Seen" = "Dernière Vu";
+"Share Style" = "Style du Partager";
+"Media Options" = "Options de Médias";
+"Fully Profile Pic" = "Entièrement Profil Pic";
+"Font Size" = "Taille de la police";
+"Text Colors" = "Couleurs du texte";
+"URL Colors" = "Couleurs des liens";
 
 // Tweak Info Settings
 
 "Tweak info" = "Tweak infos";
 "Tweak's Licenses and others" = "Les licences et autres de Tweak";
 "Version:" = "Version:";
-"License" = "Licences";
+"Instructions" = "Instructions";
 
 // Authors Info
 
@@ -32,3 +31,4 @@
 "Team" = "équipe";
 "Follow @iOSDevT" = "Suivez @iOSDevT";
 "Visit iOSDevT Site" = "Visitez iOSDevT Site";
+"if you want to follow our team stuffs ;)" = "si vous voulez suivre notre travail ;)";
